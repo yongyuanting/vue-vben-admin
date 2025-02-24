@@ -6,6 +6,27 @@
     "qrcodeLogin": "二维码登录",
     "forgetPassword": "忘记密码"
   },
+  "userManage": {
+    "title": "用户权限",
+    "userList": "用户列表",
+    "roleList": "角色列表",
+    "userStatistics": "用户统计"
+  },
+  "dataManage": {
+    "title": "数据管理",
+    "dataList": "原始数据",
+    "dataStatistics": "数据文件"
+  },
+  "modulesManage": {
+    "title": "模型管理",
+    "modulesList": "模型列表",
+    "modulesUpload": "模型上传"
+  },
+  "analysis": {
+    "title": "数据分析",
+    "analysisResult": "分析结果",
+    "analysisModel": "分析模型"
+  },
   "dashboard": {
     "title": "概览",
     "analytics": "分析页",

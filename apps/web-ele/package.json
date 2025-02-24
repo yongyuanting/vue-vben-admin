@@ -42,8 +42,11 @@
     "@vben/utils": "workspace:*",
     "@vueuse/core": "catalog:",
     "dayjs": "catalog:",
+    "echarts": "^5.6.0",
     "element-plus": "catalog:",
     "pinia": "catalog:",
+    "unplugin-auto-import": "^19.1.0",
+    "unplugin-vue-components": "^28.4.0",
     "vue": "catalog:",
     "vue-router": "catalog:"
   },
